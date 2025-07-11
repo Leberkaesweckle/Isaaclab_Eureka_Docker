@@ -1,5 +1,5 @@
 # Isaaclab_Eureka_Docker
-Below you’ll find the basic code and workflow to create a Docker image containing IsaacLab 4.5, IsaacLab, and Eureka, and then run it on a cluster using Apptainer (formerly Singularity). If you need further assistance or have specific requirements, please feel free to ask!
+Below you’ll find the basic code and workflow to create a Docker image containing IsaacSim 4.5, IsaacLab, and Eureka, and then run it on a cluster using Apptainer (formerly Singularity). If you need further assistance or have specific requirements, please feel free to ask!
 
 # Creating Dockerfile:
 The Isaaclab Dockerfile from Nvidia (https://catalog.ngc.nvidia.com/orgs/nvidia/containers/isaac-lab) did't work for me so I had to build my owm.
